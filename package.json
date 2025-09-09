@@ -1,0 +1,12 @@
+{
+  "name": "estacionamentoapi",
+  "version": "1.0.0",
+  "main": "api/server.js",
+  "scripts": {
+    "dev": "npx nodemon api/server.js"
+  },
+  "keywords": [],
+  "author": "willian",
+  "license": "ISC",
+  "description": "Projeto de Estacionamento API, para aulas de Node.js"
+}
